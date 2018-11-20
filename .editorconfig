@@ -1,0 +1,4 @@
+[*.{erb,rb}]
+indent_stype = space
+indent_size = 2
+
